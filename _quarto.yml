@@ -1,0 +1,21 @@
+project:
+  title: "CES Faculty Meetings"
+  output-dir: docs
+
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    html-math-method: katex
+    self-contained: true
+    citations-hover: true
+    footnotes-hover: true
+    link-external-icon: true
+  revealjs:
+    self-contained: true
+    code-overflow: wrap
+    footer: "[VCU Environmental Studies](https://ces.vcu.edu)"
+  
+
+

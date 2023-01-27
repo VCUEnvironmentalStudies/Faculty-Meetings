@@ -1,0 +1,205 @@
+---
+title: "Fall 2022"
+author: "CES Facutly Meeting"
+format: 
+  revealjs:
+    background-transition: fade
+    theme: default
+    logo: "media/ces_logo.png"
+editor: source
+title-slide-attributes: 
+  data-background-image: "media/contour.png"
+  data-background-position: "right"
+  data-background-size: initial
+---
+
+## Topics for Today
+
+Today's meeting with touch on the following items.
+
+- Logistics  
+- Curricula    
+- Looking Ahead  
+
+
+# Logistics {background-color="black" background-image="media/contour.png" background-size="initial" background-position="right"}
+
+## New Term Position
+
+The last time I had a meeting with the Vice Provost, he suggested that we can move ahead on identifying and hiring a new term faculty member.
+
+- VCU LS not initiated paperwork.
+- No updates available.
+
+
+## Thinking Ahead
+
+I have tasked an *ad hoc* committee to think about the next tenure track hires for CES.  There is nothing on the horizon at this point (that I know of) but it is always nice to have something available immediately in case there is an opportunity that presents itself.
+
+:::{.incremental}
+- Conservation/Environmental Social Scientist,
+- Habitat Management (Fire Ecology, Invasive Species Management),
+- Environmental Law & Policy
+:::
+
+
+## Converting Classes
+
+We've finished (almost) all of the CORE curriculum changes for both undergraduate and graduate programs.  
+
+
+&nbsp;
+
+:::{.fragment}
+We now **must** convert all those 291, 391, 491, 591, and 691 classes to real numbers.
+
+- Complete and updated syllabus.
+- Small bulletin *blurb* (see bulletin for format).
+:::
+
+
+
+# Programs {background-color="black" background-image="media/contour.png" background-size="initial" background-position="right"}
+
+
+## Enrollent Numbers
+
+The VCU Census I numbers just came out.
+
+![](media/CensusIVCULS.png)
+
+
+## VP Strategic Enrollment
+
+I had a meeting yesterday with Dr. Tomikia LeGrande about strategic enrollment.  We are working on some initiatives to do some targeted recruitment such as sending content to AP Environmental Science students.  
+
+
+:::{.fragment}
+She would like us to think of some recruiting tools as well:
+
+- Small video of our work and programs to send to local Environmental HS classes.
+- Additional materials that could be pushed out on social media.
+:::
+
+
+# Curricula {background-color="black" background-image="media/contour.png" background-size="initial" background-position="right"}
+
+## Program Review
+
+From December 2021 until August 2022, there was a tremendous amount of work on the development, discussion, and production of the [2022 Environmental Studies Program Review](https://drive.google.com/file/d/1IOkEXv30wql-0UY4BHG5ZREDZKENzpgD/view?usp=sharing).
+
+
+:::{layout-ncol="2"}
+
+:::{.fragment}
+### Current Status
+
+- Turned in on time
+- "Best Benchmarking Yet" 
+- Working on logistics
+:::
+
+
+:::{.fragment}
+### Up Next
+
+- External Reviewers Visit
+- Reviewers Report
+- Recommendations from Provost
+:::
+
+:::
+
+
+## Advising 
+
+Right now, the main push from everywhere is that we *must get our mid-term grades* fully completed.
+
+
+## Undergraduate Program 
+
+James?
+
+## Graduate Program 
+
+Dan?
+
+
+
+
+# Looking Ahead {background-color="black" background-image="media/contour.png" background-size="initial" background-position="right"}
+
+## Social Meet & Greet
+
+Lesley?
+
+
+## Revising Assessment
+
+Now that we've finished the program review **and** suggested several addions to the assessment processes we use, these need to be implemented.  I think at a first pass, we have what we need right now, but we will be reaching out for additional help/advice/thoughts going forward.
+
+## {background-color="black" background-image="media/brand-redo.png" background-size="contain" background-position="center"}
+
+## {background-color="black" background-image="media/unwords.png" background-size="contain" background-position="center"}
+
+
+## {background-color="black" background-image="media/unexamples.png" background-size="contain" background-position="center"}
+
+## Advertizing - Blue Ridge Outdoors {.scrollable}
+
+They recently did a story featuring Environmental Studies, so we though the first ad we try would be here.
+
+:::{.columns}
+
+:::{.column width="50%"}
+#### Demographics
+- Gender: 54:46 {{< fa mars >}} : {{< fa venus >}}
+- Ages: 25-54
+- 52% Parents
+- 95% College Educated
+- Median Income: $95,000
+:::
+
+:::{.column width="50%"}
+#### Lifestyle
+- 4.5 'adventure' trips per year
+- 80% travel w/ family
+- 90% spend >$100 per year on gear.
+- 350,000 readers who love hiking, biking, fishing, paddling, running, camping, gear, craft foods & beverages
+:::
+
+:::
+
+
+##  {background-image="media/coverage.png" background-size="contain"}
+
+
+
+
+
+## {background-color="black" background-image="media/bro.png" background-size="contain" background-position="center"}
+
+[link](https://www.blueridgeoutdoors.com/go-outside/virginia-university-launches-new-outdoor-leadership-certificate/)
+
+
+
+## Ad Attempt #1 {background-color="black" foreground-color="white"}
+
+:::{layout-ncol="2"}
+![](media/boot.png)
+
+
+![](media/mountain.png)
+:::
+
+
+
+## {background-color="black" background-image="media/stream.png" background-size="contain"}
+
+
+
+## Thank you!
+
+
+
+
