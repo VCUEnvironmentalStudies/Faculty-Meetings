@@ -15,7 +15,7 @@ format:
   revealjs:
     self-contained: true
     code-overflow: wrap
-    footer: "[VCU Environmental Studies](https://ces.vcu.edu)"
+    footer: "[VCU Environmental Studies](https://github.com/VCUEnvironmentalStudies/Faculty-Meetings)"
   
 
 
