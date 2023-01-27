@@ -2,6 +2,10 @@
 
 A repository for slides and content related to faculty meetings.
 
+Slides 
+
+- [Fall 2022](https://VCUEnvironmentalStudies.github.io/Faculty-Meetings/Fall2022/20220914.html). 
+
 
 ## About VCU Environmental Studies
 
